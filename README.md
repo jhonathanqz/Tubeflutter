@@ -1,16 +1,32 @@
-# tubeflutter
+<br>
+<center>
+<p align="center">
+  <h1> TubeFlutter 🟥 </h1>
+</p></center>
 
-A new Flutter application.
+## 👁‍🗨 Tecnologias
 
-## Getting Started
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-This project is a starting point for a Flutter application.
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 
-A few resources to get you started if this is your first Flutter project:
+## 💻 Projeto
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+O projeto TubeFlutter, consiste em um aplicativo que consome a API de serviços do youtube, permitindo executar videos e salvá-los como favoritos.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+<div>
+  <img src="https://github.com/jhonathanqz/Tubeflutter/blob/master/screenshots/home1.jpg" width="600px" style="max-width:100%;" alt="imagem do projeto">
+</div>
+
+## ▶️ Como executar
+
+- Clone o repositório
+- Abra o terminal no diretório do projeto e execute `flutter pub get`
+- Vá até o arquivo api.dart, e coloque sua chave de API do youtube
+- Inicie seu app com `flutter run`
+
+---
+<br>
+Este projeto foi desenvolvido com o propósito de adquirir mais conhecimento na programação.
